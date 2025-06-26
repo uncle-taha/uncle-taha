@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, &nbsp  Welcome to my github page.</h1>
 <h3 align="center">I'm taha,&nbsp  Front-End developer. You can find me on <u> <a href="https://linkedin.com/in/taha_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha_" height="18" width="20" /></a></u> too </h3>
 
-<h3 align="center">You can check my portfolio website <a href="https://www.taha.design/" target="blank">here</a></h3>
+<h3 align="center">You can check my portfolio website <a href="https://www.taha.design/" target="_blank">here</a></h3>
 
 <h3 align="center">My development toolkit:</h3>
 <p align="center">
