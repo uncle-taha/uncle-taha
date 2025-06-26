@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋, &nbsp  Welcome to my github page.</h1>
 <h3 align="center">I'm taha,&nbsp  Front-End developer. You can find me on <u> <a href="https://linkedin.com/in/taha_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha_" height="18" width="20" /></a></u> too </h3>
 
+<h3 align="center">You can check my portfolio website <a href="taha.design" target="blank">here</a></h3>
 
-
-<h3 align="left">My development toolkit:</h3>
-<p align="left">
+<h3 align="center">My development toolkit:</h3>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   &nbsp;&nbsp;
